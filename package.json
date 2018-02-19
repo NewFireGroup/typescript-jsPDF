@@ -1,0 +1,15 @@
+{
+  "name": "typescript-jspdf",
+  "version": "1.0.0",
+  "description": "Test project to assist with writing TypeScript for the Parallax jsPDF HTML PDF Generator from James Hall.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
